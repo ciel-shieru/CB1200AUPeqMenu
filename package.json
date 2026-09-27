@@ -1,0 +1,64 @@
+{
+  "cLanguageStandard" : null,
+  "cxxLanguageStandard" : null,
+  "dependencies" : [
+
+  ],
+  "name" : "CB1200AUPeqMenu",
+  "packageKind" : {
+    "root" : [
+      "/mnt/data/release01"
+    ]
+  },
+  "pkgConfig" : null,
+  "platforms" : [
+    {
+      "options" : [
+
+      ],
+      "platformName" : "macos",
+      "version" : "13.0"
+    }
+  ],
+  "products" : [
+    {
+      "name" : "CB1200AUPeqMenu",
+      "settings" : [
+
+      ],
+      "targets" : [
+        "CB1200AUPeqMenu"
+      ],
+      "type" : {
+        "executable" : null
+      }
+    }
+  ],
+  "providers" : null,
+  "swiftLanguageVersions" : null,
+  "targets" : [
+    {
+      "dependencies" : [
+
+      ],
+      "exclude" : [
+
+      ],
+      "name" : "CB1200AUPeqMenu",
+      "packageAccess" : true,
+      "resources" : [
+
+      ],
+      "settings" : [
+
+      ],
+      "type" : "executable"
+    }
+  ],
+  "toolsVersion" : {
+    "_version" : "5.9.0"
+  },
+  "traits" : [
+
+  ]
+}
